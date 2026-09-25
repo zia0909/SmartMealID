@@ -1,0 +1,10 @@
+{
+  "description": "SmartMeal ID helps families plan balanced meals and manage budgets while reducing food waste, ensuring nutritional needs are met for all members.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
