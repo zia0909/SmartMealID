@@ -1,6 +1,8 @@
 ## SmartMealID
 SmartMeal ID merupakan platform perencana menu interaktif yang membantu keluarga mengelola pemenuhan gizi seimbang sesuai anggaran belanja harian. Mengusung fokus pada Nutrition & Household Security, platform ini dilengkapi fitur pemantauan kecukupan gizi untuk pencegahan stunting, pengelola stok dapur untuk mengurangi pemborosan makanan (food waste), serta katalog resep pangan lokal yang terjangkau dan bernutrisi tinggi.
 
+This project made by Kanayya Felizzia Sakhi with :heart: !!
+
 # Getting Started
 Clone the repository
 bash
